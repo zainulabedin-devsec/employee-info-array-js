@@ -1,19 +1,24 @@
-                                                            Employee Management System
+Employee Management System
 
 A simple Employee Management System built with HTML and JavaScript to demonstrate handling employee data such as displaying employee details, calculating salaries, filtering HR employees, and finding employees by ID.
 
 🚀 Features
 
 📋 Display Employees – Show all employee details.
+
 💰 Calculate Total Salaries – Calculate and display the sum of all employee salaries.
+
 🧑‍💼 Display HR Employees – Filter and display employees from the HR department.
+
 🔎 Find Employee by ID – Search and display details of a specific employee by their ID.
 
 🛠️ Technologies Used:
 1.HTML
+
 2.JavaScript
 
 📂 Project Structure
+
 employee-info-array-js/
 │
 ├── employee_details.html   # Main HTML file
@@ -21,6 +26,7 @@ employee-info-array-js/
 └── LICENSE                 # License file
 
 ▶️ How to Run
+
 Clone the repository:
 git clone https://github.com/zainulabedin-devsec/employee-info-array-js.git
 
